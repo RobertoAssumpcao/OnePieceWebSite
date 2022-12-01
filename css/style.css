@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/thousandSunny.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../images/thousandSunny.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
