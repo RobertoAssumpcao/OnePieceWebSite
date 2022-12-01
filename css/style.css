@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Amaranth:wght@700&display=swap');
 
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../images/thousandSunny.png");
-    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/thousandSunny.png");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 .navBarIcon {
