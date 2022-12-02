@@ -33,8 +33,8 @@ body {
 }
 
 .texto--main {
-    max-width: 50%;
-    font-size: 20px;
+    max-width: 70%;
+    font-size: 22px;
     color: #EAF0F0;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
@@ -48,7 +48,7 @@ body {
     }
 
     .texto--main {
-        max-width: 50%;
+        max-width: 80%;
         font-size: 16px;
     }
 }
